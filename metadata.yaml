@@ -1,0 +1,34 @@
+_repo: Tendresses-imp-riales_19700
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Napoleon I, Emperor of the French
+    aliases:
+    - Bonaparte, Napoleon
+    - Buonaparte, Napoleon
+    - Bonapart, Napoleon
+    - Bonaparte, Napoleone
+    birthdate: 1769
+    deathdate: 1821
+    gutenberg_agent_id: '4267'
+    url: http://www.gutenberg.org/2009/agents/4267
+    wikipedia: http://en.wikipedia.org/wiki/Napoleon_Bonaparte
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2006-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19700'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Correspondence'
+- !lcc 'DC'
+- !lcsh 'France -- History -- Consulate and First Empire, 1799-1815'
+title: Tendresses impériales
+url: http://www.gutenberg.org/ebooks/19700
