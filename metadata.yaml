@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4267
     wikipedia: http://en.wikipedia.org/wiki/Napoleon_Bonaparte
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19700#Tendresses-imp-riales
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2006-11-02'
 gutenberg_type: Text
